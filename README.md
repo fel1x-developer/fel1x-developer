@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @fel1x-developer
-- 👀 I’m interested in system programming(BSD, Linux) and game programming(UE4, source engine)
-- 🌱 I’m currently learning Linux kernel
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+I’m interested in system programming(BSD, Linux) and game programming(UE4, source engine)
+I’m currently learning Linux kernel
 
 Goals of 2021
 - update virtualization part of FreeBSD Handbook
