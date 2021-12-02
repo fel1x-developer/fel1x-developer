@@ -7,8 +7,7 @@ Goals of 2021
 
 Goals of 2022
 - fix FreeBSD kernel bugs
-- improve FreeBSD Linuxulator
-- FreeBSD source code - support cross-platform make file
+- improve FreeBSD Linuxulatore
 
 Goals of 2023
 - immplement things in FreeBSD Wiki Ideas page
