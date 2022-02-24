@@ -4,10 +4,12 @@ I’m currently learning Linux kernel
 Goals of 2021
 - update virtualization part of FreeBSD Handbook (Compeleted)
 - fix errors on FreeBSD doc
+- make my own SwiftUI App
 
 Goals of 2022
 - fix FreeBSD kernel bugs
-- improve FreeBSD Linuxulatore
+- add features in Single Unix Specfiction v4 2018 to FreeBSD
+- improve FreeBSD Linuxulator to the latest version of linux kenel
 
 Goals of 2023
 - immplement things in FreeBSD Wiki Ideas page
