@@ -1,12 +1,10 @@
 I’m interested in system programming(BSD, Linux) and game programming(UE4, source engine)
 I’m currently learning Linux kernel
 
-Goals of 2021
+Goals of 2022
 - update virtualization part of FreeBSD Handbook (Compeleted)
 - fix errors on FreeBSD doc
 - make my own SwiftUI App
-
-Goals of 2022
 - fix FreeBSD kernel bugs
 - add features in Single Unix Specfiction v4 2018 to FreeBSD
 - improve FreeBSD Linuxulator to the latest version of linux kenel
